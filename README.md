@@ -1,12 +1,12 @@
 #Mongo Sample for Golang read/write
 
-##Data Retreival Code sample:
+## Data Retreival Code sample:
 
 
-##Sample data source:
+## Sample data source:
 https://github.com/ozlerhakan/mongodb-json-files/blob/master/datasets/restaurant.json
 
-##Tasks:
+## Tasks:
 
 1. Write a script - python/golang to import the documents separated by newline into a mongo collection named "restaurant"
 
