@@ -17,6 +17,7 @@ type Writer interface {
 	Delete(id domain.ID) error
 }
 
+//Filter Find objects by additional filters
 type Filter interface {
 	FindByTypeOfFood(foodType string) ([]*domain.Restaurant, error)
 	FindByTypeOfPostCode(postCode string) ([]*domain.Restaurant, error)

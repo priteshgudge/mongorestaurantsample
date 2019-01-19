@@ -20,4 +20,8 @@ Following commands should work:
 ./runprogram count --type_of_food=Thai
  --> returns count of all restarants matching criteria as above
  
-
+## Notes:
+1. Code has to be pushed to your own github public repository
+2. Code should run on local mongo database without password/auth
+3. Code commits should have appropriate messages
+4. Use comments/Doc Line against each public function in Golang

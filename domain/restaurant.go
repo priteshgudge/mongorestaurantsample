@@ -1,5 +1,6 @@
 package domain
 
+//Restaurant is a domain object
 type Restaurant struct {
 	DBID         ID      `json:"id" bson:"_id"`
 	Name         string  `json:"name" bson:"name"`
