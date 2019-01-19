@@ -1,7 +1,4 @@
-#Mongo Sample for Golang read/write
-
-## Data Retreival Code sample:
-
+# Mongo Sample for Golang read/write
 
 ## Sample data source:
 https://github.com/ozlerhakan/mongodb-json-files/blob/master/datasets/restaurant.json
