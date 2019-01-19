@@ -1,7 +1,7 @@
 package dbrepository
 
 import (
-	"github.com/priteshgudge/mongosample/domain"
+	"github.com/priteshgudge/mongorestaurantsample/domain"
 	mgo "gopkg.in/mgo.v2"
 	bson "gopkg.in/mgo.v2/bson"
 )

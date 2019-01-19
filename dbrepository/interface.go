@@ -1,6 +1,6 @@
 package dbrepository
 
-import "github.com/priteshgudge/mongosample/domain"
+import "github.com/priteshgudge/mongorestaurantsample/domain"
 
 //Reader read from db
 type Reader interface {
